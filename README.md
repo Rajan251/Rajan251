@@ -4,8 +4,7 @@
 
 Skills: Python / Networking / Linux /  HTML / CSS
 
-- 🌱 I’m currently learning CSE 
-- 📫 How to reach me: boysmad1@gmail.com 
+- 📫 How to reach me: rajemishra77@gmail.com
 
 
 
