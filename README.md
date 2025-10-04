@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rajan Kumar
 
-### ⚡ DevOps Engineer | Cloud Infrastructure Specialist | Automation Enthusiast
+### ⚡ DevOps Engineer | Cloud Infrastructure Engineer | Automation Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rajan251&label=Profile%20views&color=0e75b6&style=flat)
 
