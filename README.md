@@ -10,7 +10,7 @@
 
 DevOps Engineer from India with 1 year of hands-on experience in building and automating scalable infrastructure. Passionate about CI/CD pipelines, cloud technologies, and solving complex infrastructure challenges.
 
-📧 **Let's Connect:** rajankumar9354680@gmail.com
+📧 **Let's Connect:** https://www.linkedin.com/in/rajankumar25/
 
 ---
 
